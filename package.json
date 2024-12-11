@@ -41,5 +41,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://{username}.github.io/{repository-name}"
+  "homepage": "https://karan-gera.github.io/tweetviz",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
 }
